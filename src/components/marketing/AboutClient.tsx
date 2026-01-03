@@ -35,7 +35,7 @@ const AboutClient = () => {
   const stats = [
     { label: "Students Served", value: "25,000+", icon: Users, color: "text-primary" },
     { label: "Verified Tutors", value: "5,000+", icon: Award, color: "text-success" },
-    { label: "Success Rate", value: "95%", icon: TrendingUp, color: "text-warning" },
+    { label: "Success Rate", value: "95%",dfgdfgdfgdfgdfgdfgdfgdfg icon: TrendingUp, color: "text-warning" },
     { label: "Cities Covered", value: "20+", icon: Globe, color: "text-info" }
   ];
 
